@@ -1,5 +1,4 @@
 # KQVote
-For Test
 <img src="https://raw.githubusercontent.com/Htet-Aung-Lin/KQVote/master/ka.png"/>
 <img src="https://raw.githubusercontent.com/Htet-Aung-Lin/KQVote/master/kha.png"/>
 <img src="https://raw.githubusercontent.com/Htet-Aung-Lin/KQVote/master/ga.png"/>
