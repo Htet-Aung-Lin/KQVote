@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-
 <table>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/Htet-Aung-Lin/KQVote/master/ka.png"/></td>
@@ -24,5 +17,3 @@
 	</tr>
   
 </table>
-</body>
-</html>
